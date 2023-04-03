@@ -1,6 +1,6 @@
 #include<iostream>
 #include<conio.h>
-// #include<dos.h>
+// #include<dos.h>     //for turbo 
 #include<windows.h>
 #include<string.h>
 #include<stdlib.h>
